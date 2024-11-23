@@ -1,4 +1,4 @@
-<h1 align='center'> Learn-Modern-Web-Application-Development-In-Baby-Steps </h1>
+<h1 align='center'> Learn Modern Web Application Development In-Baby Steps </h1>
 
 <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,git" /><img src="https://skillicons.dev/icons?i=react,mui,tailwind,nextjs,nodejs" /><img src="https://skillicons.dev/icons?i=express,mongodb,graphql,postgresql,nestjs" /><p/>
 
